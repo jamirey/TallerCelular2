@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">TallerCelular2</string>
+    <string name="titulo">Celulares</string>
+    <array name="OpcionesPrincipal">
+        <item>@string/crear</item>
+        <item>@string/reportes</item>
+    </array>
+    <array name="OpcionesReportes">
+        <item>@string/reporte1</item>
+        <item>@string/reporte2</item>
+        <item>@string/reporte3</item>
+    </array>
+    <string name="crear">Crear Celular</string>
+    <string name="reportes">Reportes</string>
+    <string name="titulocrear">Crear Celular</string>
+    <string name="marca">Marca</string>
+    <string-array name="tipos">
+        <item>@string/huawei</item>
+        <item>@string/nokia</item>
+        <item>@string/samsung</item>
+    </string-array>
+    <string-array name="sistemas">
+        <item>@string/android</item>
+        <item>@string/ios</item>
+    </string-array>
+    <string-array name="rams">
+        <item>@string/ungb</item>
+        <item>@string/dosgb</item>
+        <item>@string/tresgb</item>
+        <item>@string/cuatrogb</item>
+    </string-array>
+    <string-array name="colores">
+        <item>@string/blanco</item>
+        <item>@string/negro</item>
+        <item>@string/azul</item>
+    </string-array>
+    <string name="samsung">Samsung</string>
+    <string name="huawei">Huawei</string>
+    <string name="nokia">Nokia</string>
+    <string name="so">Sistema Operativo</string>
+    <string name="ram">Ram</string>
+    <string name="color">Color</string>
+    <string name="precio">Precio</string>
+    <string name="ungb">1GB</string>
+    <string name="dosgb">2GB</string>
+    <string name="tresgb">3GB</string>
+    <string name="cuatrogb">4GB</string>
+    <string name="android">Android</string>
+    <string name="ios">IOS</string>
+    <string name="negro">Negro</string>
+    <string name="blanco">Blanco</string>
+    <string name="azul">Azul</string>
+    <string name="red">Rojo</string>
+    <string name="error01">Ingrese un valor</string>
+    <string name="exito01">Guardado Exitosamente</string>
+    <string name="reporte1">Precio y Ram de Samsung Negro con Android</string>
+    <string name="reporte2">Samsung de 2 a 4GB</string>
+    <string name="reporte3">Huawei mas barato con Android</string>
+    <string name="no">No.</string>
+</resources>

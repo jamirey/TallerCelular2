@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TallerCelular2</string>
+    <string name="titulo">Cellphones</string>
+    <string name="crear">Create Cellphones</string>
+    <string name="reportes">Reports</string>
+    <string name="titulocrear">Create CellPhones</string>
+    <string name="marca">Brand</string>
+    <string name="samsung">Samsung</string>
+    <string name="huawei">Huawei</string>
+    <string name="nokia">Nokia</string>
+    <string name="so">Operating System</string>
+    <string name="ram">Ram</string>
+    <string name="color">Color</string>
+    <string name="precio">Price</string>
+    <string name="ungb">1GB</string>
+    <string name="dosgb">2GB</string>
+    <string name="tresgb">3GB</string>
+    <string name="cuatrogb">4GB</string>
+    <string name="android">Android</string>
+    <string name="ios">IOS</string>
+</resources>
